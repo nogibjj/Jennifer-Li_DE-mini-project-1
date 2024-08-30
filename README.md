@@ -1,1 +1,2 @@
 # Jennifer-Li_DE-mini-project-1
+[![cicd](https://github.com/nogibjj/Jennifer-Li_DE-mini-project-1/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Jennifer-Li_DE-mini-project-1/actions/workflows/hello.yml)
