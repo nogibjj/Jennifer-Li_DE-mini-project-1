@@ -21,4 +21,3 @@ The key elements include the following:
 [![cicd](https://github.com/nogibjj/Jennifer-Li_DE-mini-project-1/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Jennifer-Li_DE-mini-project-1/actions/workflows/hello.yml)
 
 
-<img width="1547" alt="Screenshot 2024-09-04 at 3 14 56 PM" src="https://github.com/user-attachments/assets/933821cc-b924-4461-9fdf-4b94621d5157">
